@@ -6,7 +6,7 @@ erDiagram
   User ||--o{ Role : has
   User ||--o{ Brief : submits
   User ||--o{ Session : creates
-  Session ||--|{ Idea : includes
+  Session ||--o{ Idea : includes
 
   User {
     string _id
@@ -18,7 +18,7 @@ erDiagram
 
   Role {
     string _id
-    string name // User, Staff, Admin
+    string name
   }
 
   Brief {
@@ -45,7 +45,7 @@ erDiagram
     string title
     string description
     array tags
-    float score // from Pinecone
+    float score
     string justification
   }
 ```
