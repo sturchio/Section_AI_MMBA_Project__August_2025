@@ -91,7 +91,7 @@ This ensures reliability, cost control, and visibility into system performance.
 
 ## 8. Link to Proposal
 
-## [Project Repo](https://github.com/sturchio/Section_AI_MMBA_Project__August_2025/tree/main/Project%20Repo)
+## [Planning Documents and some scaffolded code...](https://github.com/sturchio/Section_AI_MMBA_Project__August_2025/tree/main/Project%20Repo/planning)
 
 
 ---
