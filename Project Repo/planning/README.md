@@ -1,6 +1,6 @@
 # 📖 README.md — Event Slammer Planning Docs
 
-This document is one of several that make up the **Event Slammer** planning package. If you need to generate a downloadable ZIP file with all planning docs, please ensure each of the following documents is included: `PRD.md`, `TASK_LIST.md`, `FRONTEND_TASKS.md`, `BACKEND_TASKS.md`, `API_DOCS.md`, `INTERFACES_AND_MODELS.md`, `DIAGRAMS.md`, and this `README.md`.
+This document is one of several that make up the **Event Slammer** planning package. Since GitHub's '<> Code' editor doesn't show working check boxes in Preview, I've placed copies of the three task lists in 'Issues', too. When displayed in Issues, click boxes actually work. Enjoy!  
 
 ## 🔗 Quick Links to Documentation
 
