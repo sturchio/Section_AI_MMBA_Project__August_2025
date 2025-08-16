@@ -7,7 +7,7 @@ graph TD
   B --> C[Express Backend API]
   C --> D[MongoDB]
   C --> E[Pinecone Vector DB]
-  C --> F[AI Integration (OpenAI or similar)]
+  C --> F["AI Integration (OpenAI or similar)"]
 ```
 
 ## 👣 User Journey Flow (Guided Ideation)
@@ -40,10 +40,10 @@ flowchart TD
 ## 🗂️ Database ER Diagram
 ```mermaid
 erDiagram
-  User ||--o{ Role : has
+  User }o--|| Role : assigned_to
   User ||--o{ Brief : submits
   User ||--o{ Session : creates
-  Session ||--|{ Idea : includes
+  Session ||--o{ Idea : includes
 
   User {
     string _id
@@ -55,7 +55,7 @@ erDiagram
 
   Role {
     string _id
-    string name // User, Staff, Admin
+    string name
   }
 
   Brief {
@@ -84,8 +84,7 @@ erDiagram
     array tags
     float score
     string justification
-  }
-```
+  }```
 
 ## 🔁 API Workflows
 ### Ideation Flow
@@ -116,7 +115,7 @@ sequenceDiagram
   Frontend->>Backend: POST /api/evaluate
   Backend->>Pinecone: Embed idea + compare
   Pinecone-->>Backend: Relevance score
-  Backend->>MongoDB: Store session
+  Backend->>MongoDB: Store evaluation/results
   Backend-->>Frontend: Show results
 ```
 
@@ -131,4 +130,5 @@ graph TD
   A[Admin] --> U
   A --> R[Roles]
 ```
+
 
