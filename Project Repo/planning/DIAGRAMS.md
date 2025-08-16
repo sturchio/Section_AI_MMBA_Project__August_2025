@@ -3,7 +3,7 @@
 ## 🧱 System Architecture (Component Diagram)
 ```mermaid
 graph TD
-  A[Client Browser] -->|HTTPS| B[React App]
+  A[Client Browser] --> B[React App]
   B --> C[Express Backend API]
   C --> D[MongoDB]
   C --> E[Pinecone Vector DB]
