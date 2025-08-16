@@ -96,4 +96,4 @@ This ensures reliability, cost control, and visibility into system performance.
 
 ---
 
-**Note:** This README is keyed to the Option 2 rubric requirements while the 'Project Repo' contains runnable scaffolding (frontend/backend) and planning docs.
+**Note:** This README is keyed to the Option 2 rubric requirements while the 'Project Repo' contains planning docs and a couple of runnable bit of scaffolded code....
