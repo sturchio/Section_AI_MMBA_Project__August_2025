@@ -30,7 +30,11 @@ flowchart TD
   E[Justification Interface]
   F[Export Panel]
 
-  A --> B --> C --> D --> E --> F
+  A --> B
+  B --> C
+  C --> D
+  D --> E
+  E --> F
 ```
 
 ## 🗂️ Database ER Diagram
@@ -119,12 +123,12 @@ sequenceDiagram
 ## 🧩 Use Case Diagram
 ```mermaid
 graph TD
-  U[User] -->|Submit| B[Brief]
-  U -->|Review| I[Ideas]
-  U -->|Evaluate| E[Evaluations]
-  U -->|Export| X[PDF/Markdown]
+  U[User] --> B[Brief]
+  U --> I[Ideas]
+  U --> E[Evaluations]
+  U --> X[PDF/Markdown]
 
-  A[Admin] -->|Manage| U
-  A -->|Manage| R[Roles]
+  A[Admin] --> U
+  A --> R[Roles]
 ```
 
