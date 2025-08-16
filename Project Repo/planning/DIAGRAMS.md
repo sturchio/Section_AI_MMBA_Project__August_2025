@@ -15,7 +15,7 @@ graph TD
 flowchart TD
   A[Login] --> B[Input Client Brief]
   B --> C[AI Idea Generation]
-  C --> D[Idea Evaluation (Manual & AI)]
+  C --> D["Idea Evaluation (Manual & AI)"]
   D --> E[Justify & Annotate]
   E --> F[Save or Export Output]
 ```
@@ -130,5 +130,4 @@ graph TD
   A[Admin] --> U
   A --> R[Roles]
 ```
-
 
