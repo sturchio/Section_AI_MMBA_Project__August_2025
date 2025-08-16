@@ -24,7 +24,7 @@ graph TD
   B --> C[Express Backend API]
   C --> D[MongoDB]
   C --> E[Pinecone Vector DB]
-  C --> F[AI Integration (OpenAI or similar)]
+  C --> F["AI Integration (OpenAI or similar)"]
 ```
 
 ## 🧑‍💼 User Personas
@@ -40,7 +40,7 @@ graph TD
 flowchart TD
   A[Login] --> B[Input Client Brief]
   B --> C[AI Idea Generation]
-  C --> D[Idea Evaluation (Manual & AI)]
+  C --> D["Idea Evaluation (Manual & AI)"]
   D --> E[Justify & Annotate]
   E --> F[Save or Export Output]
 ```
