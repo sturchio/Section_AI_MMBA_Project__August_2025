@@ -1,4 +1,5 @@
 # Option 2 Comprehensive AI Project Proposal
+## Malcolm Sturchio
 
 ## 1. Project Overview
 
