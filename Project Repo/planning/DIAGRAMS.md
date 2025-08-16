@@ -84,7 +84,8 @@ erDiagram
     array tags
     float score
     string justification
-  }```
+  }
+```
 
 ## 🔁 API Workflows
 ### Ideation Flow
