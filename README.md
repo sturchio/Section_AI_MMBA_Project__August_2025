@@ -1,4 +1,4 @@
-# EventSlammer – Option 2 Comprehensive AI Project Proposal
+# Option 2 Comprehensive AI Project Proposal
 
 ## 1. Project Overview
 
