@@ -1,6 +1,6 @@
 # 📖 README.md — Event Slammer Planning Docs
 
-This document is one of several that make up the **Event Slammer** planning package. Since GitHub's '<> Code' editor doesn't show working check boxes in Preview, I've placed copies of the three task lists in 'Issues', too. When displayed in Issues, click boxes actually work. Enjoy!  
+This document is one of several that make up the **Event Slammer** planning package. Since GitHub's '<> Code' editor doesn't show working check boxes in Preview, I've placed copies of the three task lists in ['Issues'](https://github.com/sturchio/Section_AI_MMBA_Project__August_2025/issues), too. When displayed in Issues, click boxes actually work. Enjoy!  
 
 ## 🔗 Quick Links to Documentation
 
