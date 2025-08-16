@@ -91,8 +91,8 @@ This ensures reliability, cost control, and visibility into system performance.
 
 ## 8. Link to Proposal
 
-Repo: [EventSlammer Monorepo](https://github.com/your-org/EventSlammer)
+Repo: [EventSlammer Monorepo]([https://github.com/your-org/EventSlammer](https://github.com/sturchio/Section_AI_MMBA_Project__August_2025/tree/main/Project%20Repo))
 
 ---
 
-**Note:** This README satisfies the Option 2 rubric requirements while the repo also contains runnable scaffolding (frontend/backend) and planning docs, which go beyond the minimum memo requirement.
+**Note:** This README is keyed to the Option 2 rubric requirements while the 'Project Repo' contains runnable scaffolding (frontend/backend) and planning docs.
