@@ -20,7 +20,7 @@ app.post('/api/ideas', async (req, res) => {
   res.json({ ideas });
 });
 
-app.get('/', (_, res) => res.send('Event Slammer Backend API is live'));
+app.get('/', (_, res) => res.send('Event_Ideate Backend API is live'));
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`✅ Backend running on http://localhost:${PORT}`));

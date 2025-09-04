@@ -1,6 +1,6 @@
 # ✅ TASK_LIST.md
 
-## 📦 Phase 1: Event Slammer MVP
+## 📦 Phase 1: Event_Ideate MVP
 ### 🏁 Setup
 - [ ] Install Node.js v18.x using nvm
 - [ ] Create Vite React project with Tailwind CSS and TypeScript

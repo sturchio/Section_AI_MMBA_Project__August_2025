@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import EventSlammerApp from './App';
+import Event_IdeateApp from './App';
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <EventSlammerApp />
+    <Event_IdeateApp />
   </React.StrictMode>
 );

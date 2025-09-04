@@ -1,8 +1,8 @@
-export default function EventSlammerApp() {
+export default function Event_IdeateApp() {
   return (
     <div className="min-h-screen bg-white text-gray-900 p-4">
       <header className="text-center mb-6">
-        <h1 className="text-4xl font-bold">🎉 Event Slammer</h1>
+        <h1 className="text-4xl font-bold">🎉 Event_Ideate</h1>
         <p className="text-lg mt-2 text-gray-600">Your AI-powered event ideation assistant</p>
       </header>
 

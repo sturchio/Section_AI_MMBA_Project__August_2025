@@ -1,8 +1,8 @@
-# 🧭 BACKEND\_GUIDE.md — Event Slammer Backend Walkthrough
+# 🧭 BACKEND\_GUIDE.md — Event_Ideate Backend Walkthrough
 
 ## 📁 Overview
 
-This backend powers the AI-enhanced ideation and session management for **Event Slammer**. It uses Express.js with simple modular routes and is ready for future expansion (auth, MongoDB, OpenAI, Pinecone).
+This backend powers the AI-enhanced ideation and session management for **Event_Ideate**. It uses Express.js with simple modular routes and is ready for future expansion (auth, MongoDB, OpenAI, Pinecone).
 
 ---
 

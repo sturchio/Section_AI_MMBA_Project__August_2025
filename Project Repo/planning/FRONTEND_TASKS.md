@@ -13,7 +13,7 @@
 - [ ] Modal wrapper
 - [ ] Notification / toast system
 
-### Event Slammer MVP
+### Event_Ideate MVP
 - [ ] Brief Input Form (audience, theme, goals)
 - [ ] AI Ideation View (question prompts, AI responses)
 - [ ] Idea Card (title, description, edit/delete buttons)

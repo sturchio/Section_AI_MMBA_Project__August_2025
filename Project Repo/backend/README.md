@@ -1,6 +1,6 @@
-# Event Slammer Backend
+# Event_Ideate Backend
 
-This is the Express.js backend for the Event Slammer app.
+This is the Express.js backend for the Event_Ideate app.
 
 ## Getting Started
 

@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-EventSlammer is an AI-assisted ideation tool for creative teams in the live marketing and events industry. The app transforms abstract client briefs into well-justified, actionable event concepts. It addresses the common problem where client briefs are vague or incomplete, making it difficult for creative directors, writers, and designers to generate ideas that align with business goals.
+Event_Ideate is an AI-assisted ideation tool for creative teams in the live marketing and events industry. The app transforms abstract client briefs into well-justified, actionable event concepts. It addresses the common problem where client briefs are vague or incomplete, making it difficult for creative directors, writers, and designers to generate ideas that align with business goals.
 
 ## 2. Use Case & Workflow
 
@@ -11,7 +11,7 @@ EventSlammer is an AI-assisted ideation tool for creative teams in the live mark
 **Workflow:**
 
 1. A client-facing account manager uploads a brief or enters structured inputs (audience, goals, constraints).
-2. EventSlammer uses an LLM to generate candidate event concepts.
+2. Event_Ideate uses an LLM to generate candidate event concepts.
 3. Concepts are structured, scored, and compared to past events using vector search.
 4. Users review outputs, iterate via prompts, and select top candidates for internal pitch decks.
 

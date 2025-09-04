@@ -1,6 +1,6 @@
-# 🎉 Event Slammer Monorepo
+# 🎉 Event_Ideate Monorepo
 
-This repository includes everything needed to build, run, and extend the **Event Slammer** application — an AI-assisted event ideation platform.
+This repository includes everything needed to build, run, and extend the **Event_Ideate** application — an AI-assisted event ideation platform.
 
 ## 📂 Structure
 

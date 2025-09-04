@@ -1,6 +1,6 @@
-# Event Slammer Frontend
+# Event_Ideate Frontend
 
-This is the Vite + React + Tailwind frontend for Event Slammer.
+This is the Vite + React + Tailwind frontend for Event_Ideate.
 
 ## 🚀 Getting Started
 

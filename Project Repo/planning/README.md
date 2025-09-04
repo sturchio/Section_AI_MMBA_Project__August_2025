@@ -1,6 +1,6 @@
-# 📖 README.md — Event Slammer Planning Docs
+# 📖 README.md — Event_Ideate Planning Docs
 
-This document is one of several that make up the **Event Slammer** planning package. Since GitHub's '<> Code' editor doesn't show working check boxes in Preview, I've placed copies of the three task lists in ['Issues'](https://github.com/sturchio/Section_AI_MMBA_Project__August_2025/issues), too. When displayed in Issues, click boxes actually work. Enjoy!  
+This document is one of several that make up the **Event_Ideate** planning package. Since GitHub's '<> Code' editor doesn't show working check boxes in Preview, I've placed copies of the three task lists in ['Issues'](https://github.com/sturchio/Section_AI_MMBA_Project__August_2025/issues), too. When displayed in Issues, click boxes actually work. Enjoy!  
 
 ## 🔗 Quick Links to Documentation
 
@@ -15,7 +15,7 @@ This document is one of several that make up the **Event Slammer** planning pack
 | [`DIAGRAMS.md`](./DIAGRAMS.md) | Full collection of system architecture, user flows, API, ER, and use case diagrams |
 
 ## 🧠 Summary
-Event Slammer helps creative teams ideate client-focused event concepts faster and more collaboratively. These documents support structured planning, MVP delivery, and developer onboarding.
+Event_Ideate helps creative teams ideate client-focused event concepts faster and more collaboratively. These documents support structured planning, MVP delivery, and developer onboarding.
 
 ## 📁 Usage Notes
 - This repo is a **living design system**. Diagrams and tasks are subject to updates.

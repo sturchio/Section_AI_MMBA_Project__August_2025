@@ -2,11 +2,11 @@
 
 ## 🧠 Executive Summary
 
-**Event Slammer** is a creative ideation web application designed for agency and production company teams to rapidly transform abstract client briefs into compelling event ideas with the help of AI. By combining fast brainstorming capabilities with structured creative justification, it empowers teams to deliver aligned, high-impact concepts quickly.
+**Event_Ideate** is a creative ideation web application designed for agency and production company teams to rapidly transform abstract client briefs into compelling event ideas with the help of AI. By combining fast brainstorming capabilities with structured creative justification, it empowers teams to deliver aligned, high-impact concepts quickly.
 
 ## 🚀 Elevator Pitch
 
-"Event Slammer helps agency teams go from vague client briefs to pitch-ready event ideas — fast. With AI-assisted brainstorming and creative evaluation tools, your team can generate, explore, and refine concepts that truly resonate with your client's business goals."
+"Event_Ideate helps agency teams go from vague client briefs to pitch-ready event ideas — fast. With AI-assisted brainstorming and creative evaluation tools, your team can generate, explore, and refine concepts that truly resonate with your client's business goals."
 
 ## ⚙️ Tech Stack
 
@@ -47,7 +47,7 @@ flowchart TD
 
 ## 🧩 Core Features
 
-### ✅ Phase 1: Event Slammer MVP
+### ✅ Phase 1: Event_Ideate MVP
 
 - Basic brief form (audience, goals, theme)
 - Generate varied event ideas using AI
