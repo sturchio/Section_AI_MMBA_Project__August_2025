@@ -22,6 +22,3 @@ Event Slammer helps creative teams ideate client-focused event concepts faster a
 - Task files use markdown checkboxes so they can be tracked manually or by an LLM under dev guidance.
 - Diagrams use **Mermaid syntax** for easy preview in tools like GitHub or Obsidian.
 
----
-Let's build something awesome together. ✨
-
